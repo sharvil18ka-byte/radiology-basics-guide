@@ -1,3 +1,7 @@
+## Repository Structure
+- xray-notes.md → Basics of X-ray imaging
+- ct-scan-basics.md → Fundamentals of CT imaging
+
 # radiology-basics-guide
 Educational repository documenting core radiology and imaging principles.
 ## Purpose
