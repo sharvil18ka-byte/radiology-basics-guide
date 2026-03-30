@@ -28,5 +28,14 @@ To build a strong conceptual foundation in radiology and gradually move towards 
 ## Why This Repository Exists
 This repository reflects my learning journey and acts as a structured knowledge base for radiology concepts.
 
+## Current Status
+Actively building and updating notes as I progress through my coursework.
+
+## Planned Topics
+- MRI physics
+- Ultrasound imaging
+- Radiation protection protocols
+
 ## Connect
 GitHub: https://github.com/sharvil18ka-byte
+
