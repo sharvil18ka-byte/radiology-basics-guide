@@ -19,3 +19,6 @@ Computed Tomography (CT) uses X-rays to create cross-sectional images of the bod
 
 ## Limitations
 - Higher radiation dose than X-ray
+
+## Notes
+CT imaging provides significantly more detail compared to standard X-rays, especially in trauma cases.
