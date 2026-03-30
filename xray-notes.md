@@ -20,3 +20,6 @@ X-rays are a form of electromagnetic radiation used for diagnostic imaging.
 ## Limitations
 - Radiation exposure
 - Limited soft tissue detail
+
+## Notes
+This topic helped me understand how imaging differentiates between soft tissue and bone density.
