@@ -18,3 +18,15 @@ This repository is created to:
 
 ## Author
 Student of Medical Radiology & Imaging Technology
+
+## About Me
+I am currently a BSc MRIT (Medical Radiology and Imaging Technology) student with a strong interest in diagnostic imaging and radiological sciences.
+
+## Learning Goal
+To build a strong conceptual foundation in radiology and gradually move towards advanced imaging techniques and clinical applications.
+
+## Why This Repository Exists
+This repository reflects my learning journey and acts as a structured knowledge base for radiology concepts.
+
+## Connect
+GitHub: https://github.com/sharvil18ka-byte
